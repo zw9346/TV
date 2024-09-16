@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTM3U 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV-2 财经
@@ -281,16 +281,16 @@ https://0472.org/hls/cgtnx.m3u8
 https://0472.org/hls/cgtna.m3u8
 
 
-
-
-
-
-
-
+#EXTINF:-1 tvg-name="默杀" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="2024电影",2024-默杀
+https://svip.high21-playback.com/20240916/38861_11139f6d/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="海关战线" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="2024电影",2024-海关战线
+https://pl.qcheng.cc/Cache/mytv/f9a6553420cb7a0d2ef6d754fd54dac9.m3u8
+#EXTINF:-1 tvg-name="打黑" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="2024电影",2024-打黑
+https://pl.qcheng.cc/Cache/mytv/7092ebe424dd0fe07914d27e55dc61c2.m3u8
 #EXTINF:-1 tvg-name="无名之火" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="2024电影",2024-无名之火
-https://svipsvip.ffzy-online5.com/20240724/30574_0048cca0/2000k/hls/mixed.m3u8
+https://pl.qcheng.cc/Cache/mytv/fafb2acc0caf78c14074da3bc5831848.m3u8
 #EXTINF:-1 tvg-name="东哥闯东北" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="2024电影",2024-东哥闯东北
-https://hn.bfvvs.com/play/neg3PlDe/index.m3u8
+https://pl.qcheng.cc/Cache/mytv/8f2fcc5a32a5d8c44bd8ab85300cae0e.m3u8
 #EXTINF:-1 tvg-name="致命通话" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="2024电影",2024-致命通话
 https://hn.bfvvs.com/play/0dNJPw6d/index.m3u8
 #EXTINF:-1 tvg-name="来福大酒店" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="2024电影",2024-来福大酒店
