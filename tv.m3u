@@ -281,10 +281,33 @@ https://0472.org/hls/cgtnx.m3u8
 https://0472.org/hls/cgtna.m3u8
 
 
-#EXTINF:-1 tvg-name="默杀" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="2024电影",2024-默杀
-https://svip.high21-playback.com/20240916/38861_11139f6d/2000k/hls/mixed.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-name="抓娃娃" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="2024电影",2024-抓娃娃
+https://123450.070207.xyz/static/cache/2024-09-27/f0aa07bb1477339e5811a37a676ea02e464f5c7e3b9713aae17042d726f2ead7.m3u8
 #EXTINF:-1 tvg-name="海关战线" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="2024电影",2024-海关战线
-https://pl.qcheng.cc/Cache/mytv/f9a6553420cb7a0d2ef6d754fd54dac9.m3u8
+https://123450.070207.xyz/static/cache/2024-09-27/e23d0c3b743fbb959fb8353270ef8607812ddfd24aff6922d02a3351ab69e036.m3u8
 #EXTINF:-1 tvg-name="打黑" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="2024电影",2024-打黑
 https://pl.qcheng.cc/Cache/mytv/7092ebe424dd0fe07914d27e55dc61c2.m3u8
 #EXTINF:-1 tvg-name="无名之火" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="2024电影",2024-无名之火
@@ -295,16 +318,20 @@ https://pl.qcheng.cc/Cache/mytv/8f2fcc5a32a5d8c44bd8ab85300cae0e.m3u8
 https://hn.bfvvs.com/play/0dNJPw6d/index.m3u8
 #EXTINF:-1 tvg-name="来福大酒店" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="2024电影",2024-来福大酒店
 https://svipsvip.ffzy-online5.com/20240726/30648_246d0958/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="雪迷宫5" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="2024电影",2024-雪迷宫5
-https://v.cdnlz3.com/20240907/26442_cc9beaeb/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="雪迷宫6" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="2024电影",2024-雪迷宫6
-https://v.cdnlz3.com/20240908/26455_259328ef/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="雪迷宫6" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="2024电影",2024-雪迷宫6
-https://v.cdnlz12.com/20240909/16846_f4328af8/2000k/hls/mixed.m3u8
-
-
-
-
+#EXTINF:-1 tvg-name="雪迷宫5" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="2024电影",2024-雪迷宫26
+https://svipsvip.ffzyread1.com/20240918/31710_c070bfe7/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="雪迷宫6" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="2024电影",2024-雪迷宫27
+https://svipsvip.ffzyread1.com/20240919/31733_93aaa292/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="雪迷宫6" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="2024电影",2024-雪迷宫28
+https://svipsvip.ffzyread1.com/20240920/31765_aa954eb9/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="雪迷宫6" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="2024电影",2024-雪迷宫29
+https://svipsvip.ffzyread1.com/20240920/31766_ed355178/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="雪迷宫6" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="2024电影",2024-雪迷宫30
+https://svipsvip.ffzyread1.com/20240920/31767_7b1d3c75/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="雪迷宫6" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="2024电影",2024-雪迷宫31
+https://svipsvip.ffzyread1.com/20240920/31768_576b9b48/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="雪迷宫6" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="2024电影",2024-雪迷宫32
+https://svipsvip.ffzyread1.com/20240920/31769_23e18616/2000k/hls/mixed.m3u8
 
 
 
