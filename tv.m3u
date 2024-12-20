@@ -541,8 +541,9 @@ https://live.iill.top/huya/11342413
 
 
 
-#EXTINF:-1 tvg-name="熊猫计划" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="2024电影",2024-熊猫计划
-https://hn.bfvvs.com/play/QbYO5P9e/index.m3u8
+#EXTINF:-1 tvg-name="熊猫计划1" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="2024电影",2024-熊猫计划1
+https://122.228.8.29:4433/Cache/youku/333c08ee41a360fa16cc649d9bdd3ec7.m3u8?vkey=6264333255516b4a4146454655315a545651465555414253556c514d416c4a554251525443675653416c634844774e5741416b48
+#EXTINF:-1 tvg-name="熊猫计划2" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="2024电影",2024-熊猫计划2
 https://vv.jisuzyv.com/play/Rb4NL00e/index.m3u8
 #EXTINF:-1 tvg-name="市井英雄" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="2024电影",2024-市井英雄
 https://vip.ffzy-video.com/20241214/8436_ca3a9be7/2000k/hls/mixed.m3u8
