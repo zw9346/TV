@@ -542,9 +542,9 @@ https://live.iill.top/huya/11342413
 
 
 #EXTINF:-1 tvg-name="熊猫计划1" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="2024电影",2024-熊猫计划1
-https://122.228.8.29:4433/Cache/youku/333c08ee41a360fa16cc649d9bdd3ec7.m3u8?vkey=6264333255516b4a4146454655315a545651465555414253556c514d416c4a554251525443675653416c634844774e5741416b48
+https://svip.high21-playback.com/20241220/40686_cddd109f/2000k/hls/mixed.m3u8
 #EXTINF:-1 tvg-name="熊猫计划2" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="2024电影",2024-熊猫计划2
-https://vv.jisuzyv.com/play/Rb4NL00e/index.m3u8
+https://svip.high21-playback.com/20241220/40693_b050ef7e/2000k/hls/mixed.m3u8
 #EXTINF:-1 tvg-name="市井英雄" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="2024电影",2024-市井英雄
 https://vip.ffzy-video.com/20241214/8436_ca3a9be7/2000k/hls/mixed.m3u8
 #EXTINF:-1 tvg-name="志愿军：存亡之战" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="2024电影",2024-志愿军：存亡之战
@@ -991,8 +991,26 @@ https://v.cdnlz12.com/20241217/17781_6a9f72a0/2000k/hls/mixed.m3u8
 https://v.cdnlz3.com/20241218/31061_9ca20fb8/2000k/hls/mixed.m3u8
 #EXTINF:-1 tvg-name="第七集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="清明上河图密码",第七集
 https://v.cdnlz3.com/20241218/31060_4722ac85/2000k/hls/mixed.m3u8
-
-
+#EXTINF:-1 tvg-name="第八集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="清明上河图密码",第八集
+https://svip.high22-playback.com/20241219/19518_00341434/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="第九集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="清明上河图密码",第九集
+https://svip.high22-playback.com/20241219/19517_c0d749ef/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="第十集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="清明上河图密码",第十集
+https://svip.high22-playback.com/20241220/19648_ac811c4f/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="第十一集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="清明上河图密码",第十一集
+https://svip.high22-playback.com/20241220/19647_ab748db6/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="第十二集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="清明上河图密码",第十二集
+https://svip.high22-playback.com/20241221/19677_6e534449/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="第十三集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="清明上河图密码",第十三集
+https://svip.high22-playback.com/20241221/19676_c556c669/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="第十四集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="清明上河图密码",第十四集
+https://svip.high24-playback.com/20241222/13982_29d4c7fa/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="第十五集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="清明上河图密码",第十五集
+https://svip.high24-playback.com/20241222/13981_d9a5321f/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="第十六集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="清明上河图密码",第十六集
+https://svip.high22-playback.com/20241223/19807_95a9852c/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="第十七集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="清明上河图密码",第十七集
+https://svip.high22-playback.com/20241223/19806_5454fa70/2000k/hls/mixed.m3u8
 
 
 
