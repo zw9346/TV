@@ -153,36 +153,7 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010078/1.m3u8
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010072/1.m3u8
 #EXTINF:-1 tvg-id="精品记录" tvg-name="精品记录" tvg-logo="https://epg.iill.top/logo/NewTV精品记录.png" group-title="•NewTV「IPV6」",NewTV 精品记录「IPV6」
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010076/1.m3u8
-#EXTINF:-1 tvg-id="爱喜剧" tvg-name="爱喜剧" tvg-logo="https://epg.iill.top/logo/iHOT爱喜剧.png" group-title="•iHOT「IPV6」",iHOT 爱喜剧「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000032/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000032&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="爱科幻" tvg-name="爱科幻" tvg-logo="https://epg.iill.top/logo/iHOT爱科幻.png" group-title="•iHOT「IPV6」",iHOT 爱科幻「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000033/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000033&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="爱院线" tvg-name="爱院线" tvg-logo="https://epg.iill.top/logo/iHOT爱院线.png" group-title="•iHOT「IPV6」",iHOT 爱院线「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000034/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000034&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="爱浪漫" tvg-name="爱浪漫" tvg-logo="https://epg.iill.top/logo/iHOT爱浪漫.png" group-title="•iHOT「IPV6」",iHOT 爱浪漫「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000035/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000035&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="爱悬疑" tvg-name="爱悬疑" tvg-logo="https://epg.iill.top/logo/iHOT爱悬疑.png" group-title="•iHOT「IPV6」",iHOT 爱悬疑「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000036/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000036&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="爱谍战" tvg-name="爱谍战" tvg-logo="https://epg.iill.top/logo/iHOT爱谍战.png" group-title="•iHOT「IPV6」",iHOT 爱谍战「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000038/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000038&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="爱历史" tvg-name="爱历史" tvg-logo="https://epg.iill.top/logo/iHOT爱历史.png" group-title="•iHOT「IPV6」",iHOY 爱历史「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000046/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000046&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="爱科学" tvg-name="爱科学" tvg-logo="https://epg.iill.top/logo/iHOT爱科学.png" group-title="•iHOT「IPV6」",iHOT 爱科学「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000047/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000047&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="爱幼教" tvg-name="爱幼教" tvg-logo="https://epg.iill.top/logo/iHOT爱幼教.png" group-title="•iHOT「IPV6」",iHOT 爱幼教「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000049/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000049&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="爱玩具" tvg-name="爱玩具" tvg-logo="https://epg.iill.top/logo/iHOT爱玩具.png" group-title="•iHOT「IPV6」",iHOT 爱玩具「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000053/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000053&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="爱赛车" tvg-name="爱赛车" tvg-logo="https://epg.iill.top/logo/iHOT爱赛车.png" group-title="•iHOT「IPV6」",iHOT 爱赛车「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000055/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000055&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="爱旅行" tvg-name="爱旅行" tvg-logo="https://epg.iill.top/logo/iHOT爱旅行.png" group-title="•iHOT「IPV6」",iHOT 爱旅行「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000056/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000056&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="爱奇谈" tvg-name="爱奇谈" tvg-logo="https://epg.iill.top/logo/iHOT爱奇谈.png" group-title="•iHOT「IPV6」",iHOT 爱奇谈「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000058/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000058&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="爱动漫" tvg-name="爱动漫" tvg-logo="https://epg.iill.top/logo/iHOT爱动漫.png" group-title="•iHOT「IPV6」",iHOT 爱动漫「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000059&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="爱体育" tvg-name="爱体育" tvg-logo="https://epg.iill.top/logo/iHOT爱体育.png" group-title="•iHOT「IPV6」",iHOT 爱体育「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000060/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000060&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+
 #EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://epg.iill.top/logo/中国天气.png" group-title="•数字「IPV6」",中国天气「IPV6」
 http://[2409:8087:5e08:24::11]:6610/000000001000/5000000005000031974/index.m3u8?channel-id=bestzb&Contentid=5000000005000031974&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-id="上海纪实人文" tvg-name="上海纪实人文" tvg-logo="https://epg.iill.top/logo/纪实人文.png" group-title="•数字「IPV6」",纪实人文「IPV6」
@@ -261,214 +232,7 @@ http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000007/index.m3u8?
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000013&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="•数字「IPV6」",你叫啥都行 𝟠「IPV6」
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000017/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000017&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.iill.top/logo/广东珠江.png" group-title="•地区「IPV6」",广东珠江「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000003000000033/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000033&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://epg.iill.top/logo/东方影视.png" group-title="•地区「IPV6」",东方影视「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000013&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://epg.iill.top/logo/上海都市.png" group-title="•地区「IPV6」",上海都市「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000012/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000012&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://epg.iill.top/logo/上海新闻.png" group-title="•地区「IPV6」",上海新闻「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000005/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000005&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="上海外语" tvg-name="上海外语" tvg-logo="https://epg.iill.top/logo/上海外语.png" group-title="•地区「IPV6」",ICS「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000001/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000001&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="海南公共" tvg-name="海南公共" tvg-logo="https://epg.iill.top/logo/海南公共.png" group-title="•地区「IPV6」",海南公共「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/000000001000/460000100000000057/1.m3u8
-#EXTINF:-1 tvg-id="海南少儿" tvg-name="海南少儿" tvg-logo="https://epg.iill.top/logo/海南少儿.png" group-title="•地区「IPV6」",海南少儿「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000112/1.m3u8
-#EXTINF:-1 tvg-id="海南文旅" tvg-name="海南文旅" tvg-logo="https://epg.iill.top/logo/海南文旅.png" group-title="•地区「IPV6」",海南文旅「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000113/1.m3u8
-#EXTINF:-1 tvg-id="海南新闻" tvg-name="海南新闻" tvg-logo="https://epg.iill.top/logo/海南新闻.png" group-title="•地区「IPV6」",海南新闻「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000111/1.m3u8
-#EXTINF:-1 tvg-id="海南自贸" tvg-name="海南自贸" tvg-logo="https://epg.iill.top/logo/海南自贸.png" group-title="•地区「IPV6」",海南自贸「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000116/1.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播4K Ⅰ「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播4K Ⅱ「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟙「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟚「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟛「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟜「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟝「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟞「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟟「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟠「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟡「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟙𝟘「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟙𝟙「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟙𝟚「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟙𝟛「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟙𝟜「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟙𝟝「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟙𝟞「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟙𝟟「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟙𝟠「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟙𝟡「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟚𝟘「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟚𝟙「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟚𝟚「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟚𝟛「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟚𝟜「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟚𝟝「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟚𝟞「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟚𝟟「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000017678&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟚𝟠「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟚𝟡「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟛𝟘「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟛𝟙「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟛𝟚「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟛𝟛「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟛𝟜「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011518&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟛𝟝「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011519&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟛𝟞「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011520&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟛𝟟「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟛𝟠「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟛𝟡「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟜𝟘「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟜𝟙「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟜𝟚「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟜𝟛「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟜𝟜「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟜𝟝「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅱ」",咪咕直播4K Ⅰ「IPV4」
-http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅱ」",咪咕直播4K Ⅱ「IPV4」
-http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅱ」",咪咕直播 𝟙「IPV4」
-http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅱ」",咪咕直播 𝟚「IPV4」
-http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅱ」",咪咕直播 𝟛「IPV4」
-http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅱ」",咪咕直播 𝟜「IPV4」
-http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅱ」",咪咕直播 𝟝「IPV4」
-http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅱ」",咪咕直播 𝟞「IPV4」
-http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅱ」",咪咕直播 𝟟「IPV4」
-http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅱ」",咪咕直播 𝟠「IPV4」
-http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅱ」",咪咕直播 𝟡「IPV4」
-http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅱ」",咪咕直播 𝟙𝟘「IPV4」
-http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅱ」",咪咕直播 𝟙𝟙「IPV4」
-http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅱ」",咪咕直播 𝟙𝟚「IPV4」
-http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅱ」",咪咕直播 𝟙𝟛「IPV4」
-http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅱ」",咪咕直播 𝟙𝟜「IPV4」
-http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅱ」",咪咕直播 𝟙𝟝「IPV4」
-http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅱ」",咪咕直播 𝟙𝟞「IPV4」
-http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅱ」",咪咕直播 𝟙𝟟「IPV4」
-http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅱ」",咪咕直播 𝟙𝟠「IPV4」
-http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅱ」",咪咕直播 𝟙𝟡「IPV4」
-http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅱ」",咪咕直播 𝟚𝟘「IPV4」
-http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅱ」",咪咕直播 𝟚𝟙「IPV4」
-http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅱ」",咪咕直播 𝟚𝟚「IPV4」
-http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅱ」",咪咕直播 𝟚𝟛「IPV4」
-http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅱ」",咪咕直播 𝟚𝟜「IPV4」
-http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅱ」",咪咕直播 𝟚𝟝「IPV4」
-http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅱ」",咪咕直播 𝟚𝟞「IPV4」
-http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅱ」",咪咕直播 𝟚𝟟「IPV4」
-http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000017678&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅱ」",咪咕直播 𝟚𝟠「IPV4」
-http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅱ」",咪咕直播 𝟚𝟡「IPV4」
-http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅱ」",咪咕直播 𝟛𝟘「IPV4」
-http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅱ」",咪咕直播 𝟛𝟙「IPV4」
-http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅱ」",咪咕直播 𝟛𝟚「IPV4」
-http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅱ」",咪咕直播 𝟛𝟛「IPV4」
-http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅱ」",咪咕直播 𝟛𝟜「IPV4」
-http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011518&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅱ」",咪咕直播 𝟛𝟝「IPV4」
-http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011519&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅱ」",咪咕直播 𝟛𝟞「IPV4」
-http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011520&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅱ」",咪咕直播 𝟛𝟟「IPV4」
-http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅱ」",咪咕直播 𝟛𝟠「IPV4」
-http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅱ」",咪咕直播 𝟛𝟡「IPV4」
-http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅱ」",咪咕直播 𝟜𝟘「IPV4」
-http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅱ」",咪咕直播 𝟜𝟙「IPV4」
-http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅱ」",咪咕直播 𝟜𝟚「IPV4」
-http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅱ」",咪咕直播 𝟜𝟛「IPV4」
-http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅱ」",咪咕直播 𝟜𝟜「IPV4」
-http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅱ」",咪咕直播 𝟜𝟝「IPV4」
-http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=YanG-1989
+
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",音乐石榴「音乐」
 https://live.iill.top/huya/17091681
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",音乐速递「音乐」
@@ -541,62 +305,10 @@ https://live.iill.top/huya/11342413
 
 
 
-#EXTINF:-1 tvg-name="熊猫计划1" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="2024电影",2024-熊猫计划1
-https://svip.high21-playback.com/20241220/40686_cddd109f/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="熊猫计划2" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="2024电影",2024-熊猫计划2
-https://svip.high21-playback.com/20241220/40693_b050ef7e/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="市井英雄" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="2024电影",2024-市井英雄
-https://vip.ffzy-video.com/20241214/8436_ca3a9be7/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="熊猫计划" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="2024电影",2024-熊猫计划
+https://play.modujx16.com/20241220/M8Rq39B3/index.m3u8
 #EXTINF:-1 tvg-name="志愿军：存亡之战" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="2024电影",2024-志愿军：存亡之战
-https://vip.ffzy-video.com/20241213/8363_e6ed5dac/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="逆鳞" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="2024电影",2024-逆鳞
-https://vip.ffzy-video.com/20241102/5373_04a1bf2d/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="绝地逃亡" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="2024电影",2024-绝地逃亡
-https://vip.ffzy-video.com/20241210/8125_a34c4691/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="我才不要和你做朋友呢" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="2024电影",2024-我才不要和你做朋友呢
-https://play.hhuus.com/play/QbYKyGne/index.m3u8
-#EXTINF:-1 tvg-name="不差钱" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="2024电影",2024-不差钱
-https://vip.ffzy-video.com/20241207/7971_cc225865/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="脑洞大开" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="2024电影",2024-脑洞大开
-https://c1.7bbffvip.com/video/naodongdakai/HD/index.m3u8
-#EXTINF:-1 tvg-name="749局" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="2024电影",2024-749局
-https://cdn7.ryplay7.com/20241206/7639_4dae93ea/2000k/hls/index.m3u8
-#EXTINF:-1 tvg-name="谈判专家" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="2024电影",2024-谈判专家
-https://svipsvip.ffzy-online5.com/20240719/30265_2f3999ee/3000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="绑架游戏" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="2024电影",2024-绑架游戏
-https://vip.ffzy-video.com/20241122/6887_baf4f1a5/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="危机航线" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="2024电影",2024-危机航线
-https://c1.7bbffvip.com/video/weijihangxian/HD/index.m3u8
-#EXTINF:-1 tvg-name="雾都奇遇夜" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="2024电影",2024-雾都奇遇夜
-https://c1.7bbffvip.com/video/wuduqiyuye/HD/index.m3u8
-#EXTINF:-1 tvg-name="猎毒行动：终极对决" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="2024电影",2024-猎毒行动：终极对决
-https://pl.qcheng.cc/Cache/lzgg/05ca4c9985f0d92f4c35c5feaa228c88.m3u8
-#EXTINF:-1 tvg-name="浴火之路" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="2024电影",2024-浴火之路
-https://vip.ffzy-video.com/20241115/6353_5a570102/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="破毒" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="2024电影",2024-破毒
-https://pl.qcheng.cc/Cache/lzgg/8f62e700fe45612b6bd952765ca7204d.m3u8
-#EXTINF:-1 tvg-name="爆款好人" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="2024电影",2024-爆款好人
-https://play.modujx16.com/20241101/qZbsmkRG/index.m3u8
-#EXTINF:-1 tvg-name="狼战" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="2024电影",2024-狼战
-https://pl.qcheng.cc/Cache/lzgg/a7778d104d6119630419e1b484a95a43.m3u8
-#EXTINF:-1 tvg-name="我不是继承人" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="2024电影",2024-我不是继承人
-https://cdn.wlcdn99.com:777/be6b806d/index.m3u8
-#EXTINF:-1 tvg-name="一雪前耻" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="2024电影",2024-一雪前耻
-https://pl.qcheng.cc/Cache/mytv/d3360377ec30d819fc9ed437596b30d7.m3u8
-#EXTINF:-1 tvg-name="刺猬" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="2024电影",2024-刺猬
-https://v.cdnlz12.com/20241001/17220_8fecc6e2/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="重生" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="2024电影",2024-重生
-https://pl.qcheng.cc/Cache/mytv/45323829a74a10852d6be05e6a52eda9.m3u8
-#EXTINF:-1 tvg-name="捉刀人" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="2024电影",2024-捉刀人
-https://vip.ffzy-video.com/20240928/3174_45c166d6/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="逆行人生" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="2024电影",2024-逆行人生
-https://vip.ffzy-video.com/20240930/3288_b98249b3/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="东哥闯东北" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="2024电影",2024-东哥闯东北
-https://pl.qcheng.cc/Cache/mytv/8f2fcc5a32a5d8c44bd8ab85300cae0e.m3u8
-#EXTINF:-1 tvg-name="致命通话" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="2024电影",2024-致命通话
-https://hn.bfvvs.com/play/0dNJPw6d/index.m3u8
-#EXTINF:-1 tvg-name="来福大酒店" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="2024电影",2024-来福大酒店
-https://svipsvip.ffzy-online5.com/20240726/30648_246d0958/2000k/hls/mixed.m3u8
+https://play.modujx16.com/20241214/ojiqnZhk/index.m3u8
 
 
 
@@ -608,48 +320,6 @@ https://svipsvip.ffzy-online5.com/20240726/30648_246d0958/2000k/hls/mixed.m3u8
 
 
 
-#EXTINF:-1 tvg-name="第一集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="好运家",第一集
-https://c1.7bbffvip.com/video/haoyunjia/%E7%AC%AC01%E9%9B%86/index.m3u8
-#EXTINF:-1 tvg-name="第二集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="好运家",第二集
-https://c1.7bbffvip.com/video/haoyunjia/%E7%AC%AC02%E9%9B%86/index.m3u8
-#EXTINF:-1 tvg-name="第三集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="好运家",第三集
-https://c1.7bbffvip.com/video/haoyunjia/%E7%AC%AC03%E9%9B%86/index.m3u8
-#EXTINF:-1 tvg-name="第四集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="好运家",第四集
-https://c1.7bbffvip.com/video/haoyunjia/%E7%AC%AC04%E9%9B%86/index.m3u8
-#EXTINF:-1 tvg-name="第五集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="好运家",第五集
-https://c1.7bbffvip.com/video/haoyunjia/%E7%AC%AC05%E9%9B%86/index.m3u8
-#EXTINF:-1 tvg-name="第六集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="好运家",第六集
-https://c1.7bbffvip.com/video/haoyunjia/%E7%AC%AC06%E9%9B%86/index.m3u8
-#EXTINF:-1 tvg-name="第七集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="好运家",第七集
-https://c1.7bbffvip.com/video/haoyunjia/%E7%AC%AC07%E9%9B%86/index.m3u8
-#EXTINF:-1 tvg-name="第八集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="好运家",第八集
-https://c1.7bbffvip.com/video/haoyunjia/%E7%AC%AC08%E9%9B%86/index.m3u8
-#EXTINF:-1 tvg-name="第九集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="好运家",第九集
-https://c1.7bbffvip.com/video/haoyunjia/%E7%AC%AC09%E9%9B%86/index.m3u8
-#EXTINF:-1 tvg-name="第十集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="好运家",第十集
-https://c1.7bbffvip.com/video/haoyunjia/%E7%AC%AC10%E9%9B%86/index.m3u8
-#EXTINF:-1 tvg-name="第十一集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="好运家",第十一集
-https://c1.7bbffvip.com/video/haoyunjia/%E7%AC%AC11%E9%9B%86/index.m3u8
-#EXTINF:-1 tvg-name="第十二集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="好运家",第十二集
-https://c1.7bbffvip.com/video/haoyunjia/%E7%AC%AC12%E9%9B%86/index.m3u8
-#EXTINF:-1 tvg-name="第十三集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="好运家",第十三集
-https://c1.7bbffvip.com/video/haoyunjia/%E7%AC%AC13%E9%9B%86/index.m3u8
-#EXTINF:-1 tvg-name="第十四集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="好运家",第十四集
-https://c1.7bbffvip.com/video/haoyunjia/%E7%AC%AC14%E9%9B%86/index.m3u8
-#EXTINF:-1 tvg-name="第十五集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="好运家",第十五集
-https://vip.ffzy-video.com/20241208/8055_444b0d9a/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="第十六集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="好运家",第十六集
-https://vip.ffzy-video.com/20241209/8107_7706d2dc/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="第十七集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="好运家",第十七集
-https://vip.ffzy-video.com/20241209/8108_25b07af8/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="第十八集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="好运家",第十八集
-https://vip.ffzy-video.com/20241210/8186_2051bd70/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="第十九集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="好运家",第十九集
-https://vip.ffzy-video.com/20241210/8187_cecd845e/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="第二十集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="好运家",第二十集
-https://vip.ffzy-video.com/20241211/8270_1b486d7a/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="第二十一集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="好运家",第二十一集
-https://vip.ffzy-video.com/20241211/8271_d1d5923f/2000k/hls/mixed.m3u8
 
 
 
@@ -822,36 +492,52 @@ https://c1.7bbffvip.com/video/baiyepoxiao/%E7%AC%AC29%E9%9B%86/index.m3u8
 
 
 
-#EXTINF:-1 tvg-name="第一集" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="猎罪图鉴2",第一集
-https://svipsvip.ffzy-online5.com/20241210/35967_5f03fe4a/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="第二集" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="猎罪图鉴2",第二集
-https://svipsvip.ffzy-online5.com/20241210/35968_1910192e/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="第三集" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="猎罪图鉴2",第三集
-https://svipsvip.ffzy-online5.com/20241210/35969_7fa3244f/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="第四集" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="猎罪图鉴2",第四集
-https://svipsvip.ffzy-online5.com/20241210/35970_ae919153/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="第五集" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="猎罪图鉴2",第五集
-https://svipsvip.ffzy-online5.com/20241211/35996_9b425b22/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="第六集" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="猎罪图鉴2",第六集
-https://svipsvip.ffzy-online5.com/20241211/35997_3750d48e/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="第一集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="猎罪图鉴2",第一集
+https://play.modujx16.com/20241210/mz1v0M2z/index.m3u8
+#EXTINF:-1 tvg-name="第二集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="猎罪图鉴2",第二集
+https://play.modujx16.com/20241210/Ny4elQXY/index.m3u8
+#EXTINF:-1 tvg-name="第三集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="猎罪图鉴2",第三集
+https://play.modujx16.com/20241210/G5Ibwq6a/index.m3u8
+#EXTINF:-1 tvg-name="第四集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="猎罪图鉴2",第四集
+https://play.modujx16.com/20241210/bIIYDReL/index.m3u8
+#EXTINF:-1 tvg-name="第五集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="猎罪图鉴2",第五集
+https://play.modujx16.com/20241211/MuCzYUge/index.m3u8
+#EXTINF:-1 tvg-name="第六集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="猎罪图鉴2",第六集
+https://play.modujx16.com/20241211/YKLfZthH/index.m3u8
 #EXTINF:-1 tvg-name="第七集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="猎罪图鉴2",第七集
-https://svipsvip.ffzy-online5.com/20241212/36025_94860396/2000k/hls/mixed.m3u8
+https://play.modujx16.com/20241212/jTkWwLAv/index.m3u8
 #EXTINF:-1 tvg-name="第八集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="猎罪图鉴2",第八集
-https://svipsvip.ffzy-online5.com/20241212/36026_1cf8e789/2000k/hls/mixed.m3u8
+https://play.modujx16.com/20241212/D7QQnSca/index.m3u8
 #EXTINF:-1 tvg-name="第九集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="猎罪图鉴2",第九集
-https://svipsvip.ffzy-online5.com/20241213/36058_79bd2e9f/2000k/hls/mixed.m3u8
+https://play.modujx16.com/20241213/ACoVSfhk/index.m3u8
 #EXTINF:-1 tvg-name="第十集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="猎罪图鉴2",第十集
-https://svipsvip.ffzy-online5.com/20241213/36059_c31298d8/2000k/hls/mixed.m3u8
+https://play.modujx16.com/20241213/DtKHhsqv/index.m3u8
 #EXTINF:-1 tvg-name="第十一集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="猎罪图鉴2",第十一集
-https://svipsvip.ffzy-online5.com/20241214/36100_09b15aee/2000k/hls/mixed.m3u8
+https://play.modujx16.com/20241214/H2b2FAk6/index.m3u8
 #EXTINF:-1 tvg-name="第十二集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="猎罪图鉴2",第十二集
-https://svipsvip.ffzy-online5.com/20241214/36101_08bc6a3c/2000k/hls/mixed.m3u8
+https://play.modujx16.com/20241214/GTNjGNw8/index.m3u8
 #EXTINF:-1 tvg-name="第十三集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="猎罪图鉴2",第十三集
-https://v.cdnlz3.com/20241215/30941_79dc2340/2000k/hls/mixed.m3u8
+https://play.modujx16.com/20241215/AEcfwbYw/index.m3u8
 #EXTINF:-1 tvg-name="第十四集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="猎罪图鉴2",第十四集
-https://v.cdnlz3.com/20241215/30940_8a2b051f/2000k/hls/mixed.m3u8
+https://play.modujx16.com/20241215/vF1jakOK/index.m3u8
 #EXTINF:-1 tvg-name="第十五集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="猎罪图鉴2",第十五集
-https://v.cdnlz12.com/20241218/17817_3c212afb/2000k/hls/mixed.m3u8
+https://play.modujx16.com/20241218/uXXaIXQz/index.m3u8
+#EXTINF:-1 tvg-name="第十六集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="猎罪图鉴2",第十六集
+https://play.modujx16.com/20241219/tuaNGrFJ/index.m3u8
+#EXTINF:-1 tvg-name="第十七集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="猎罪图鉴2",第十七集
+https://play.modujx16.com/20241220/3WhoB4Jd/index.m3u8
+#EXTINF:-1 tvg-name="第十八集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="猎罪图鉴2",第十八集
+https://play.modujx16.com/20241220/liGWC58J/index.m3u8
+#EXTINF:-1 tvg-name="第十九集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="猎罪图鉴2",第十九集
+https://play.modujx16.com/20241221/VSbGeu2H/index.m3u8
+#EXTINF:-1 tvg-name="第二十集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="猎罪图鉴2",第二十集
+https://play.modujx16.com/20241221/bdlUuz4j/index.m3u8
+#EXTINF:-1 tvg-name="第二十一集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="猎罪图鉴2",第二十一集
+https://play.modujx16.com/20241222/OE6OBl69/index.m3u8
+#EXTINF:-1 tvg-name="第二十二集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="猎罪图鉴2",第二十二集
+https://play.modujx16.com/20241223/Aw3bVvpZ/index.m3u8
+#EXTINF:-1 tvg-name="第二十三集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="猎罪图鉴2",第二十三集
+https://play.modujx11.com/20241224/mUeHFzUH/index.m3u8
 
 
 
@@ -922,54 +608,69 @@ https://v.cdnlz3.com/20241215/30948_b847ed04/2000k/hls/mixed.m3u8
 
 
 #EXTINF:-1 tvg-name="第一集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="蓝盔特战队",第一集
-https://vip.ffzy-video.com/20241205/7869_398024cb/2000k/hls/mixed.m3u8
+ https://play.modujx16.com/20241206/L9Yt7NAf/index.m3u8
 #EXTINF:-1 tvg-name="第二集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="蓝盔特战队",第二集
-https://vip.ffzy-video.com/20241205/7870_a42b4dde/2000k/hls/mixed.m3u8
+https://play.modujx16.com/20241206/jCtGCmgM/index.m3u8
 #EXTINF:-1 tvg-name="第三集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="蓝盔特战队",第三集
-https://vip.ffzy-video.com/20241205/7871_e46709aa/2000k/hls/mixed.m3u8
+https://play.modujx16.com/20241206/1CDN9MlG/index.m3u8
 #EXTINF:-1 tvg-name="第四集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="蓝盔特战队",第四集
-https://vip.ffzy-video.com/20241205/7872_b543376b/2000k/hls/mixed.m3u8
+https://play.modujx16.com/20241206/qjYN0lYm/index.m3u8
 #EXTINF:-1 tvg-name="第五集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="蓝盔特战队",第五集
-https://vip.ffzy-video.com/20241205/7873_44e215cf/2000k/hls/mixed.m3u8
+https://play.modujx16.com/20241206/lGI2AfVD/index.m3u8
 #EXTINF:-1 tvg-name="第六集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="蓝盔特战队",第六集
-https://vip.ffzy-video.com/20241205/7874_305ddad0/2000k/hls/mixed.m3u8
+https://play.modujx16.com/20241206/1QLkAa81/index.m3u8
 #EXTINF:-1 tvg-name="第七集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="蓝盔特战队",第七集
-https://vip.ffzy-video.com/20241212/8347_a9cc6694/2000k/hls/mixed.m3u8
+https://play.modujx16.com/20241206/Hm0yYB4x/index.m3u8
 #EXTINF:-1 tvg-name="第八集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="蓝盔特战队",第八集
-https://vip.ffzy-video.com/20241212/8348_fd3ae753/2000k/hls/mixed.m3u8
+https://play.modujx16.com/20241206/nCSnqCS9/index.m3u8
 #EXTINF:-1 tvg-name="第九集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="蓝盔特战队",第九集
-https://vip.ffzy-video.com/20241212/8349_e85cc63b/2000k/hls/mixed.m3u8
+https://play.modujx16.com/20241209/pydlvUZT/index.m3u8
 #EXTINF:-1 tvg-name="第十集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="蓝盔特战队",第十集
-https://vip.ffzy-video.com/20241212/8350_29d74915/2000k/hls/mixed.m3u8
+https://play.modujx16.com/20241209/qhaBBhRN/index.m3u8
 #EXTINF:-1 tvg-name="第十一集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="蓝盔特战队",第十一集
-https://vip.ffzy-video.com/20241212/8351_609a1998/2000k/hls/mixed.m3u8
+https://play.modujx16.com/20241210/6DfgD68k/index.m3u8
 #EXTINF:-1 tvg-name="第十二集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="蓝盔特战队",第十二集
-https://vip.ffzy-video.com/20241212/8352_b71f5aaf/2000k/hls/mixed.m3u8
+https://play.modujx16.com/20241210/pt21ncCF/index.m3u8
 #EXTINF:-1 tvg-name="第十三集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="蓝盔特战队",第十三集
-https://vip.ffzy-video.com/20241212/8353_10c72a9d/2000k/hls/mixed.m3u8
+https://play.modujx16.com/20241211/LY8T1GyP/index.m3u8
 #EXTINF:-1 tvg-name="第十四集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="蓝盔特战队",第十四集
-https://vip.ffzy-video.com/20241212/8354_066d47ae/2000k/hls/mixed.m3u8
+https://play.modujx16.com/20241211/K31sGFxl/index.m3u8
 #EXTINF:-1 tvg-name="第十五集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="蓝盔特战队",第十五集
-https://v.cdnlz3.com/20241212/30826_b05d8034/2000k/hls/mixed.m3u8
+https://play.modujx16.com/20241212/GUNzqEqd/index.m3u8
 #EXTINF:-1 tvg-name="第十六集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="蓝盔特战队",第十六集
-https://v.cdnlz3.com/20241212/30825_ae4769d4/2000k/hls/mixed.m3u8
+https://play.modujx16.com/20241212/nRAOKDUG/index.m3u8
 #EXTINF:-1 tvg-name="第十七集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="蓝盔特战队",第十七集
-https://v.cdnlz3.com/20241214/30912_9f1c7d04/2000k/hls/mixed.m3u8
+https://play.modujx16.com/20241213/Ky2cjixC/index.m3u8
 #EXTINF:-1 tvg-name="第十八集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="蓝盔特战队",第十八集
-https://v.cdnlz3.com/20241214/30913_78223394/2000k/hls/mixed.m3u8
+https://play.modujx16.com/20241213/h67qfcj6/index.m3u8
 #EXTINF:-1 tvg-name="第十九集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="蓝盔特战队",第十九集
-https://v.cdnlz3.com/20241216/30986_d470a91d/2000k/hls/mixed.m3u8
+https://play.modujx16.com/20241216/cTUr0HP9/index.m3u8
 #EXTINF:-1 tvg-name="第二十集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="蓝盔特战队",第二十集
-https://v.cdnlz3.com/20241216/30985_fb90ecb8/2000k/hls/mixed.m3u8
+https://play.modujx16.com/20241216/bXvfhRZP/index.m3u8
 #EXTINF:-1 tvg-name="第二十一集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="蓝盔特战队",第二十一集
-https://v.cdnlz3.com/20241217/31043_1637f9a8/2000k/hls/mixed.m3u8
+https://play.modujx16.com/20241217/2BgFDVHR/index.m3u8
 #EXTINF:-1 tvg-name="第二十二集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="蓝盔特战队",第二十二集
-https://v.cdnlz3.com/20241217/31048_e0c353b5/2000k/hls/mixed.m3u8
+https://play.modujx16.com/20241217/SaNwxpyS/index.m3u8
 #EXTINF:-1 tvg-name="第二十三集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="蓝盔特战队",第二十三集
-https://v.cdnlz3.com/20241218/31070_9badd40d/2000k/hls/mixed.m3u8
+https://play.modujx16.com/20241218/ubaKkBmV/index.m3u8
 #EXTINF:-1 tvg-name="第二十四集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="蓝盔特战队",第二十四集
-https://v.cdnlz3.com/20241218/31071_2feace9e/2000k/hls/mixed.m3u8
-
+https://play.modujx16.com/20241218/YjMjHsk3/index.m3u8
+#EXTINF:-1 tvg-name="第二十五集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="蓝盔特战队",第二十五集
+https://play.modujx16.com/20241219/GOmhOlRV/index.m3u8
+#EXTINF:-1 tvg-name="第二十六集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="蓝盔特战队",第二十六集
+https://play.modujx16.com/20241219/s0GQQDhx/index.m3u8
+#EXTINF:-1 tvg-name="第二十七集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="蓝盔特战队",第二十七集
+https://play.modujx16.com/20241220/VSa9niqi/index.m3u8
+#EXTINF:-1 tvg-name="第二十八集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="蓝盔特战队",第二十八集
+https://play.modujx16.com/20241220/S5xM6BBD/index.m3u8
+#EXTINF:-1 tvg-name="第二十九集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="蓝盔特战队",第二十九集
+https://play.modujx16.com/20241223/DnQhdEfl/index.m3u8
+#EXTINF:-1 tvg-name="第三十集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="蓝盔特战队",第三十集
+https://play.modujx16.com/20241223/DpmZYFyF/index.m3u8
+#EXTINF:-1 tvg-name="第三十一集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="蓝盔特战队",第三十一集
+https://play.modujx11.com/20241224/5f3tXO3J/index.m3u8
+#EXTINF:-1 tvg-name="第三十二集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="蓝盔特战队",第三十二集
+https://play.modujx11.com/20241224/52bV5rcN/index.m3u8
 
 
 
