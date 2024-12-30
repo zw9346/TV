@@ -1183,6 +1183,10 @@ https://play.modujx11.com/20241228/6axnmi3S/index.m3u8
 https://play.modujx11.com/20241229/Wy1hgkoV/index.m3u8
 #EXTINF:-1 tvg-name="第十集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="风中的火焰",第十集
 https://play.modujx11.com/20241229/2WDVV8MH/index.m3u8
+#EXTINF:-1 tvg-name="第十一集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="风中的火焰",第十一集
+https://play.modujx11.com/20241230/QQd8F1zQ/index.m3u8
+#EXTINF:-1 tvg-name="第十二集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="风中的火焰",第十二集
+https://play.modujx11.com/20241230/SgSyV0uf/index.m3u8
 
 
 
@@ -1194,52 +1198,8 @@ https://play.modujx11.com/20241229/2WDVV8MH/index.m3u8
 
 
 
-
-#EXTINF:-1 tvg-name="第20241019期" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="综艺-现在就出发第二季",第20241019期
-https://v.lzcdn23.com/20241123/8399_4ea877ea/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="第20241024期" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="综艺-现在就出发第二季",第20241024期
-https://v.lzcdn23.com/20241124/8435_d03d0629/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="第20241026期" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="综艺-现在就出发第二季",第20241026期
-https://pl.qcheng.cc/Cache/lzgg/346d62e91ef09007d8fcc1835320745a.m3u8
-#EXTINF:-1 tvg-name="第20241027期" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="综艺-现在就出发第二季",第20241027期
-https://pl.qcheng.cc/Cache/lzgg/36ed7d162dccb7fd1c272a2674602301.m3u8
-#EXTINF:-1 tvg-name="第20241029期" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="综艺-现在就出发第二季",第20241029期
-https://pl.qcheng.cc/Cache/lzgg/559e2cee338c48d43441452e267ed379.m3u8
-#EXTINF:-1 tvg-name="第20241102期" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="综艺-现在就出发第二季",第20241102期
-https://pl.qcheng.cc/Cache/lzgg/75087be99a7b9ef362afb5b01b35d690.m3u8
-#EXTINF:-1 tvg-name="第20241103期" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="综艺-现在就出发第二季",第20241103期
-https://pl.qcheng.cc/Cache/lzgg/ba30a3e4f67d3019a3bb0d3aef0d326d.m3u8
-#EXTINF:-1 tvg-name="第20241116上期" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="综艺-现在就出发第二季",第20241116上期
-https://pl.qcheng.cc/Cache/lzgg/98381195eb0857ecb10acc507cafc490.m3u8
-#EXTINF:-1 tvg-name="第20241117下期" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="综艺-现在就出发第二季",第20241117下期
-https://pl.qcheng.cc/Cache/lzgg/675528c92319730a265f4b5ae950b969.m3u8
-#EXTINF:-1 tvg-name="第20241124期" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="综艺-现在就出发第二季",第20241124期
-https://pl.qcheng.cc/Cache/lzgg/34012ab0b62b5b9bdeb1962b9564ce72.m3u8
-#EXTINF:-1 tvg-name="第20241126期" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="综艺-现在就出发第二季",第20241126期
-https://pl.qcheng.cc/Cache/lzgg/c0d020a62b80be403b3f8cbadfb537af.m3u8
-#EXTINF:-1 tvg-name="第20241129期" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="综艺-现在就出发第二季",第20241129期
-https://107.149.229.176:11305/data2/files/hls/dhz/43/42932/24112915/1438655/1920/index.m3u8?appId=kkdy&sign=8fdc1cc516310efca66dbf607770139d&timestamp=1732961197&ref=2
-#EXTINF:-1 tvg-name="第20241130期" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="综艺-现在就出发第二季",第20241130期
-https://38.33.199.230:11305/data1/files/hls/dhz/43/42932/24113015/1440586/1920/index.m3u8?appId=kkdy&sign=3c4074d6edaee3a762d7794422ca282a&timestamp=1732961112&ref=2
-#EXTINF:-1 tvg-name="第20241201期" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="综艺-现在就出发第二季",第20241201期
-https://svipsvip.ffzyread1.com/20241201/33905_a9668357/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="第20241203期" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="综艺-现在就出发第二季",第20241203期
-https://142.0.141.212:11306/data5/jvods/hls/dhz/43/42932/24120315/4_251458_1449011/1280/index.m3u8?appId=kkdy&sign=83727975fd1842646ee1bd0f57ad7c29&timestamp=1733387571&ref=2
-#EXTINF:-1 tvg-name="第20241206期" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="综艺-现在就出发第二季",第20241206期
-https://api.q168.vip/splitOut/20241206/563330/V2024120612303165805563330/index.m3u8?auth_key=1733479866-ec7bfed964e541459924d41c31c37ddb-0-4aee23c606dbb9914a42178c5aff39b2
-#EXTINF:-1 tvg-name="第20241207期" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="综艺-现在就出发第二季",第20241207期
-https://svip.high24-playback.com/20241207/12621_ad02296e/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="第20241208期" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="综艺-现在就出发第二季",第20241208期
-https://svipsvip.ffzyread1.com/20241208/34096_63a6cfc9/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="第20241213期" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="综艺-现在就出发第二季",第20241213期
-https://svipsvip.ffzyread1.com/20241213/34221_b02ec300/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="第20241215期" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="综艺-现在就出发第二季",第20241215期
-https://v.cdnlz21.com/20241215/2928_1ad5cf91/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="第20241221期" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="综艺-现在就出发第二季",第20241221期
-https://v.cdnlz21.com/20241221/3134_39382d26/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="第20241222期" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="综艺-现在就出发第二季",第20241222期
-https://v.cdnlz21.com/20241222/3162_679dc591/2000k/hls/mixed.m3u8
-
+#EXTINF:-1 tvg-name="第20241229期" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="综艺-现在就出发第二季",第20241229期
+https://play.modujx11.com/20241229/Pb22nT73/index.m3u8
 
 
 
