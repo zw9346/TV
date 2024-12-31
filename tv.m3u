@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.iill.top/epg"
+#EXTM3U 
 #EXTINF:-1 tvg-id="LOVENATURE4K" tvg-name="LOVENATURE4K" tvg-logo="https://epg.iill.top/logo/LoveNature4K.png" group-title="•4K「IPV4」",Love Nature 4K「自然」
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="Loupe" tvg-name="Loupe" tvg-logo="https://epg.iill.top/logo/Loupe4K.png" group-title="•4K「IPV4」",Loupe 4K「视觉」
@@ -1206,6 +1206,57 @@ https://play.modujx11.com/20241230/3Ihw4MVz/index.m3u8
 
 
 
+
+
+
+#EXTINF:-1 tvg-name="第一集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="喜卷长乐城",第一集
+https://v10.dious.cc/20240129/Hi4QbliI/index.m3u8
+#EXTINF:-1 tvg-name="第二集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="喜卷长乐城",第二集
+https://v10.dious.cc/20240129/aXqcMTZn/index.m3u8
+#EXTINF:-1 tvg-name="第三集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="喜卷长乐城",第三集
+https://v10.dious.cc/20240129/IVUL3uVl/index.m3u8
+#EXTINF:-1 tvg-name="第四集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="喜卷长乐城",第四集
+https://v10.dious.cc/20240129/mr9qcJO9/index.m3u8
+#EXTINF:-1 tvg-name="第五集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="喜卷长乐城",第五集
+https://v10.dious.cc/20240130/ihmw8Dfw/index.m3u8
+#EXTINF:-1 tvg-name="第六集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="喜卷长乐城",第六集
+https://v10.dious.cc/20240131/oVx8ujCU/index.m3u8
+#EXTINF:-1 tvg-name="第七集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="喜卷长乐城",第七集
+https://v10.dious.cc/20240202/KNwPaggJ/index.m3u8
+#EXTINF:-1 tvg-name="第八集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="喜卷长乐城",第八集
+https://v10.dious.cc/20240203/ZxCKEeo5/index.m3u8
+#EXTINF:-1 tvg-name="第九集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="喜卷长乐城",第九集
+https://v10.dious.cc/20240203/9bcG1oeb/index.m3u8
+#EXTINF:-1 tvg-name="第十集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="喜卷长乐城",第十集
+https://v10.dious.cc/20240204/WqnzenSp/index.m3u8
+#EXTINF:-1 tvg-name="第十一集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="喜卷长乐城",第十一集
+https://v10.dious.cc/20240205/55UDceqH/index.m3u8
+#EXTINF:-1 tvg-name="第十二集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="喜卷长乐城",第十二集
+https://v10.dious.cc/20240207/hbbKDOsQ/index.m3u8
+#EXTINF:-1 tvg-name="第十三集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="喜卷长乐城",第十三集
+https://v10.dious.cc/20240208/5wTGc2Wv/index.m3u8
+#EXTINF:-1 tvg-name="第十四集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="喜卷长乐城",第十四集
+https://v10.dious.cc/20240208/TnP8leM0/index.m3u8
+#EXTINF:-1 tvg-name="第十五集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="喜卷长乐城",第十五集
+https://v10.dious.cc/20240210/gmhKHpvF/index.m3u8
+#EXTINF:-1 tvg-name="第十六集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="喜卷长乐城",第十六集
+https://v10.dious.cc/20240210/9s8MhskK/index.m3u8
+#EXTINF:-1 tvg-name="第十七集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="喜卷长乐城",第十七集
+https://v10.dious.cc/20240211/hTeMYOij/index.m3u8
+#EXTINF:-1 tvg-name="第十八集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="喜卷长乐城",第十八集
+https://v10.dious.cc/20240213/V1IxNWSU/index.m3u8
+#EXTINF:-1 tvg-name="第十九集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="喜卷长乐城",第十九集
+https://v10.dious.cc/20240215/qOnwc16U/index.m3u8
+#EXTINF:-1 tvg-name="第二十集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="喜卷长乐城",第二十集
+https://v10.dious.cc/20240215/2gdlp69b/index.m3u8
+#EXTINF:-1 tvg-name="第二十一集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="喜卷长乐城",第二十一集
+https://v10.dious.cc/20240216/GhgEGiQb/index.m3u8
+#EXTINF:-1 tvg-name="第二十二集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="喜卷长乐城",第二十二集
+https://v10.dious.cc/20240216/X2jjRvyV/index.m3u8
+#EXTINF:-1 tvg-name="第二十三集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="喜卷长乐城",第二十三集
+https://v10.dious.cc/20240216/NimdmYOR/index.m3u8
+#EXTINF:-1 tvg-name="第二十四集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="喜卷长乐城",第二十四集
+https://v10.dious.cc/20240216/0xvTAzlo/index.m3u8
 
 
 
