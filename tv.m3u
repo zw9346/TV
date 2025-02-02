@@ -168,8 +168,7 @@ updateTime: 2025-01-28 22:45:15
 
 
 
-#EXTINF:-1 group-title="2024电影" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png",2025-假爸爸-预告
-https://v.lzcdn23.com/20241218/9876_4b358e84/2000k/hls/mixed.m3u8
+
 #EXTINF:-1 group-title="2024电影" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png",2025-蛟龙行动-预告
 https://v.lzcdn23.com/20241108/7571_c6afc0ec/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="2024电影" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png",2025-无名之辈2-预告
@@ -177,6 +176,8 @@ https://v.lzcdn23.com/20241108/7578_2990e4bf/2000k/hls/mixed.m3u8
 
 
 
+#EXTINF:-1 group-title="2025电影" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png",2025-假爸爸
+https://play.modujx11.com/20250202/UJstZcUA/index.m3u8
 #EXTINF:-1 group-title="2025电影" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png",2025-误判
 https://play.modujx11.com/20250131/RlB4Mv7E/index.m3u8
 #EXTINF:-1 group-title="2025电影" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png",2025-火锅艺术家
@@ -339,6 +340,12 @@ https://play.modujx11.com/20250130/5yCvHfLj/index.m3u8
 https://play.modujx11.com/20250131/1qOPF8Yy/index.m3u8
 #EXTINF:-1 tvg-name="第二十集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="乡村爱情17",第二十集
 https://play.modujx11.com/20250131/B3JhGMhA/index.m3u8
+#EXTINF:-1 tvg-name="第二十一集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="乡村爱情17",第二十一集
+https://play.modujx11.com/20250201/PAjyjbEM/index.m3u8
+#EXTINF:-1 tvg-name="第二十二集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="乡村爱情17",第二十二集
+https://play.modujx11.com/20250202/7bdlC7NR/index.m3u8
+#EXTINF:-1 tvg-name="第二十三集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="乡村爱情17",第二十三集
+https://play.modujx11.com/20250202/kbd5DA47/index.m3u8
 
 
 
@@ -384,6 +391,10 @@ https://play.modujx11.com/20250129/Yj8s65qo/index.m3u8
 https://play.modujx11.com/20250130/Z6X3XWub/index.m3u8
 #EXTINF:-1 tvg-name="第二十集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="鹊刀门传奇第二季",第二十集
 https://play.modujx11.com/20250131/XS8Qy2eH/index.m3u8
+#EXTINF:-1 tvg-name="第二十一集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="鹊刀门传奇第二季",第二十一集
+https://play.modujx11.com/20250201/PgXa1lUr/index.m3u8
+#EXTINF:-1 tvg-name="第二十二集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="鹊刀门传奇第二季",第二十二集
+https://play.modujx11.com/20250202/xfxnWDFe/index.m3u8
 
 
 
@@ -413,6 +424,12 @@ https://play.modujx11.com/20250130/88gQLjYI/index.m3u8
 https://play.modujx11.com/20250130/nKuWU9GI/index.m3u8
 #EXTINF:-1 tvg-name="第十二集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="三叉戟2",第十二集
 https://play.modujx11.com/20250131/mzD9xvsb/index.m3u8
+#EXTINF:-1 tvg-name="第十三集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="三叉戟2",第十三集
+https://play.modujx11.com/20250201/N7CsR2d3/index.m3u8
+#EXTINF:-1 tvg-name="第十四集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="三叉戟2",第十四集
+https://play.modujx11.com/20250202/tqYCmNSe/index.m3u8
+#EXTINF:-1 tvg-name="第十五集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="三叉戟2",第十五集
+https://play.modujx11.com/20250202/UlDjZDGr/index.m3u8
 
 
 
@@ -444,6 +461,10 @@ https://play.modujx11.com/20250129/YEAhK2FO/index.m3u8
 https://play.modujx11.com/20250130/kpLVvGs0/index.m3u8
 #EXTINF:-1 tvg-name="第十三集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="五福临门",第十三集
 https://play.modujx11.com/20250131/W1zDfjCH/index.m3u8
+#EXTINF:-1 tvg-name="第十四集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="五福临门",第十四集
+https://play.modujx11.com/20250201/jgbq6bWA/index.m3u8
+#EXTINF:-1 tvg-name="第十五集" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="五福临门",第十五集
+https://play.modujx11.com/20250201/bZii1kbe/index.m3u8
 
 
 
