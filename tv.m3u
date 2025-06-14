@@ -185,8 +185,17 @@ https://v.lzcdn23.com/20241108/7578_2990e4bf/2000k/hls/mixed.m3u8
 
 
 
-#EXTINF:-1 group-title="2025电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV经典电影.png",2025-制暴：无限杀机
-https://play.modujx11.com/20250403/BQTa97vC/index.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="2025电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV经典电影.png",2025-冲·撞
+https://play.modujx11.com/20250611/eJEZHmFv/index.m3u8
+#EXTINF:-1 group-title="2025电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV经典电影.png",2025-阳光照耀青春里
+https://play.modujx11.com/20250613/85Uni0D4/index.m3u8
 #EXTINF:-1 group-title="2025电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV经典电影.png",2025-苍茫的天涯是我的爱
 https://play.modujx11.com/20250606/wCH96Mko/index.m3u8
 #EXTINF:-1 group-title="2025电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV经典电影.png",2025-第六个嫌疑人
