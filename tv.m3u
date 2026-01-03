@@ -1,92 +1,53 @@
 #EXTM3U x-tvg-url="https://fy.188766.xyz/e.xml" tvg-shift="0"
-#EXTINF:-1 tvg-id="CCTV1-综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="甘肃省天水市酒店 甘肃联通",CCTV1-综合
-http://221.7.49.226:50085/tsfile/live/0001_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="CCTV2-财经" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="甘肃省天水市酒店 甘肃联通",CCTV2-财经
-http://221.7.49.226:50085/tsfile/live/0002_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="CCTV3-综艺" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="甘肃省天水市酒店 甘肃联通",CCTV3-综艺
-http://221.7.49.226:50085/tsfile/live/0003_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="CCTV5-体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="甘肃省天水市酒店 甘肃联通",CCTV5-体育
-http://221.7.49.226:50085/tsfile/live/0005_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="CCTV6-电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="甘肃省天水市酒店 甘肃联通",CCTV6-电影
-http://221.7.49.226:50085/tsfile/live/0006_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="CCTV7-军农" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="甘肃省天水市酒店 甘肃联通",CCTV7-军农
-http://221.7.49.226:50085/tsfile/live/0007_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="CCTV8-电视剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="甘肃省天水市酒店 甘肃联通",CCTV8-电视剧
-http://221.7.49.226:50085/tsfile/live/0008_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="CCTV9-纪录" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="甘肃省天水市酒店 甘肃联通",CCTV9-纪录
-http://221.7.49.226:50085/tsfile/live/0009_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="CCTV10-科教" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="甘肃省天水市酒店 甘肃联通",CCTV10-科教
-http://221.7.49.226:50085/tsfile/live/0010_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="CCTV13-新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="甘肃省天水市酒店 甘肃联通",CCTV13-新闻
-http://221.7.49.226:50085/tsfile/live/0013_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="CCTV14-少儿" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="甘肃省天水市酒店 甘肃联通",CCTV14-少儿
-http://221.7.49.226:50085/tsfile/live/0014_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="甘肃省天水市酒店 甘肃联通",CCTV16
-http://221.7.49.226:50085/tsfile/live/0016_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="CCTV17" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="甘肃省天水市酒店 甘肃联通",CCTV17
-http://221.7.49.226:50085/tsfile/live/0019_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="甘肃1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="甘肃省天水市酒店 甘肃联通",甘肃1
-http://221.7.49.226:50085/tsfile/live/0017_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="兰州" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="甘肃省天水市酒店 甘肃联通",兰州
-http://221.7.49.226:50085/tsfile/live/0018_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="江苏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="甘肃省天水市酒店 甘肃联通",江苏卫视
-http://221.7.49.226:50085/tsfile/live/0127_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="甘肃省天水市酒店 甘肃联通",浙江卫视
-http://221.7.49.226:50085/tsfile/live/0124_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="河北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="甘肃省天水市酒店 甘肃联通",河北卫视
-http://221.7.49.226:50085/tsfile/live/0117_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="四川卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="甘肃省天水市酒店 甘肃联通",四川卫视
-http://221.7.49.226:50085/tsfile/live/0123_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="山东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="甘肃省天水市酒店 甘肃联通",山东卫视
-http://221.7.49.226:50085/tsfile/live/0131_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="黑龙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="甘肃省天水市酒店 甘肃联通",黑龙江卫视
-http://221.7.49.226:50085/tsfile/live/0143_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="湖北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="甘肃省天水市酒店 甘肃联通",湖北卫视
-http://221.7.49.226:50085/tsfile/live/0132_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="广东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="甘肃省天水市酒店 甘肃联通",广东卫视
-http://221.7.49.226:50085/tsfile/live/0125_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="云南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="甘肃省天水市酒店 甘肃联通",云南卫视
-http://221.7.49.226:50085/tsfile/live/0119_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="山东教育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="甘肃省天水市酒店 甘肃联通",山东教育
-http://221.7.49.226:50085/tsfile/live/0017_2.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="湖南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="甘肃省天水市酒店 甘肃联通",湖南卫视
-http://221.7.49.226:50085/tsfile/live/0128_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="梨园频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="甘肃省天水市酒店 甘肃联通",梨园频道
-http://221.7.49.226:50085/tsfile/live/0018_2.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="河南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="甘肃省天水市酒店 甘肃联通",河南卫视
-http://221.7.49.226:50085/tsfile/live/0139_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="江西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="甘肃省天水市酒店 甘肃联通",江西卫视
-http://221.7.49.226:50085/tsfile/live/0138_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="高清影视（茶频道）" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="甘肃省天水市酒店 甘肃联通",高清影视（茶频道）
-http://221.7.49.226:50085/tsfile/live/0017_3.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="高清综艺（乐游" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="甘肃省天水市酒店 甘肃联通",高清综艺（乐游
-http://221.7.49.226:50085/tsfile/live/0017_4.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="劲爆体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="甘肃省天水市酒店 甘肃联通",劲爆体育
-http://221.7.49.226:50085/tsfile/live/0017_5.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="都市剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="甘肃省天水市酒店 甘肃联通",都市剧场
-http://221.7.49.226:50085/tsfile/live/0017_6.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="重温经典" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="甘肃省天水市酒店 甘肃联通",重温经典
-http://221.7.49.226:50085/tsfile/live/0018_3.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="怀旧剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="甘肃省天水市酒店 甘肃联通",怀旧剧场
-http://221.7.49.226:50085/tsfile/live/0017_8.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="风云剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="甘肃省天水市酒店 甘肃联通",风云剧场
-http://221.7.49.226:50085/tsfile/live/0017_9.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="第一剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="甘肃省天水市酒店 甘肃联通",第一剧场
-http://221.7.49.226:50085/tsfile/live/0018_4.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="风云音乐" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="甘肃省天水市酒店 甘肃联通",风云音乐
-http://221.7.49.226:50085/tsfile/live/0017_10.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="央视精品" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="甘肃省天水市酒店 甘肃联通",央视精品
-http://221.7.49.226:50085/tsfile/live/0017_11.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="金鹰卡通" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="甘肃省天水市酒店 甘肃联通",金鹰卡通
-http://221.7.49.226:50085/tsfile/live/0018_7.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="中国天气" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="甘肃省天水市酒店 甘肃联通",中国天气
-http://221.7.49.226:50085/tsfile/live/0018_8.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="央视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="甘肃省天水市酒店 甘肃联通",央视
-http://221.7.49.226:50085/tsfile/live/0017_13.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="新视觉" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="甘肃省天水市酒店 甘肃联通",新视觉
-http://221.7.49.226:50085/tsfile/live/0016_2.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="下周精彩看点" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="甘肃省天水市酒店 甘肃联通",下周精彩看点
-http://221.7.49.226:50085/tsfile/live/0017_14.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-id="CCTV1-综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="湖南省长沙市开福区酒店 湖南电信",CCTV1-综合
+http://175.10.197.134:85/tsfile/live/0001_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-id="CCTV2-财经" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="湖南省长沙市开福区酒店 湖南电信",CCTV2-财经
+http://175.10.197.134:85/tsfile/live/0002_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-id="CCTV3-综艺" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="湖南省长沙市开福区酒店 湖南电信",CCTV3-综艺
+http://175.10.197.134:85/tsfile/live/0003_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-id="CCTV4-国际" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="湖南省长沙市开福区酒店 湖南电信",CCTV4-国际
+http://175.10.197.134:85/tsfile/live/0004_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-id="CCTV5-体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="湖南省长沙市开福区酒店 湖南电信",CCTV5-体育
+http://175.10.197.134:85/tsfile/live/0005_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-id="CCTV6-电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="湖南省长沙市开福区酒店 湖南电信",CCTV6-电影
+http://175.10.197.134:85/tsfile/live/0006_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-id="CCTV7-军农" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="湖南省长沙市开福区酒店 湖南电信",CCTV7-军农
+http://175.10.197.134:85/tsfile/live/0007_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-id="CCTV8-电视剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="湖南省长沙市开福区酒店 湖南电信",CCTV8-电视剧
+http://175.10.197.134:85/tsfile/live/0008_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-id="CCTV15-音乐" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="湖南省长沙市开福区酒店 湖南电信",CCTV15-音乐
+http://175.10.197.134:85/tsfile/live/0015_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-id="湖南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="湖南省长沙市开福区酒店 湖南电信",湖南卫视
+http://175.10.197.134:85/tsfile/live/0128_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-id="湖南经视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="湖南省长沙市开福区酒店 湖南电信",湖南经视
+http://175.10.197.134:85/tsfile/live/1000_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-id="湖南都市" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="湖南省长沙市开福区酒店 湖南电信",湖南都市
+http://175.10.197.134:85/tsfile/live/1001_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-id="潇湘电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="湖南省长沙市开福区酒店 湖南电信",潇湘电影
+http://175.10.197.134:85/tsfile/live/1002_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-id="湖南电视剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="湖南省长沙市开福区酒店 湖南电信",湖南电视剧
+http://175.10.197.134:85/tsfile/live/1003_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-id="四川卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="湖南省长沙市开福区酒店 湖南电信",四川卫视
+http://175.10.197.134:85/tsfile/live/0107_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-id="江苏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="湖南省长沙市开福区酒店 湖南电信",江苏卫视
+http://175.10.197.134:85/tsfile/live/0127_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-id="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="湖南省长沙市开福区酒店 湖南电信",浙江卫视
+http://175.10.197.134:85/tsfile/live/0124_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-id="安徽卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="湖南省长沙市开福区酒店 湖南电信",安徽卫视
+http://175.10.197.134:85/tsfile/live/0130_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-id="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="湖南省长沙市开福区酒店 湖南电信",北京卫视
+http://175.10.197.134:85/tsfile/live/0122_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-id="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="湖南省长沙市开福区酒店 湖南电信",东方卫视
+http://175.10.197.134:85/tsfile/live/0107_2.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-id="广东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="湖南省长沙市开福区酒店 湖南电信",广东卫视
+http://175.10.197.134:85/tsfile/live/0125_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-id="湖北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="湖南省长沙市开福区酒店 湖南电信",湖北卫视
+http://175.10.197.134:85/tsfile/live/0132_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-id="广西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="湖南省长沙市开福区酒店 湖南电信",广西卫视
+http://175.10.197.134:85/tsfile/live/0113_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-id="山东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="湖南省长沙市开福区酒店 湖南电信",山东卫视
+http://175.10.197.134:85/tsfile/live/0131_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+
 
 
 
@@ -1029,6 +990,7 @@ https://play.modujx13.com/20240719/ebYB2l7c/index.m3u8
 https://pull-flv-t13.douyincdn.com/third/stream-406173630449320762_or4.flv?arch_hrchy=h1&exp_hrchy=h1&expire=1758096993&major_anchor_level=common&sign=9c6c9e0b614df048445002c2b7f7ecfb&t_id=037-20250910161633D08E352D715F6DC8F462-YWNLOs&unique_id=stream-406173630449320762_826_flv_or4&_session_id=475-2025091016163451672617383FEC9FF19.1757492194051.76226&rsi=0&abr_pts=-800
 #EXTINF:-1 group-title="综艺-CCTV" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png",CCTV-测试2
 https://play.modujx11.com/20250805/jWe8jchk/index.m3u8
+
 
 
 
