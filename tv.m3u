@@ -118,13 +118,12 @@ http://221.7.49.226:50085/tsfile/live/0017_14.m3u8?key=txiptv&amp;playlive=1&amp
 
 
 
-
-#EXTINF:-1 group-title="2024电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV经典电影.png",2025-蛟龙行动-预告
-https://v.lzcdn23.com/20241108/7571_c6afc0ec/2000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="2024电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV经典电影.png",2025-无名之辈2-预告
-https://v.lzcdn23.com/20241108/7578_2990e4bf/2000k/hls/mixed.m3u8
-
-
+#EXTINF:-1 group-title="2026春晚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV经典电影.png",辽宁春晚-舞台合集
+https://play.modujx11.com/20260215/XZQ6kiXo/index.m3u8
+#EXTINF:-1 group-title="2026春晚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV经典电影.png",辽宁春晚-爆笑经典
+https://play.modujx11.com/20260215/BWkx7MrC/index.m3u8
+#EXTINF:-1 group-title="2026春晚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV经典电影.png",辽宁春晚-喜剧人合集
+https://play.modujx11.com/20260215/dGeyM99R/index.m3u8
 
 
 
@@ -230,8 +229,8 @@ https://play.modujx11.com/20260214/Q8fR27fV/index.m3u8
 https://play.modujx11.com/20260215/KiUpvjwD/index.m3u8
 #EXTINF:-1 tvg-name="乡爱18-第十三集" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV热播剧场.png" group-title="乡爱18",乡爱18-第十三集
 https://play.modujx11.com/20260215/rJy1rgb1/index.m3u8
-
-
+#EXTINF:-1 tvg-name="乡爱18-第十四集" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV热播剧场.png" group-title="乡爱18",乡爱18-第十四集
+https://play.modujx11.com/20260216/SGBEySPU/index.m3u8
 
 
 
@@ -263,6 +262,10 @@ https://play.modujx11.com/20260213/UMGxeo3E/index.m3u8
 https://play.modujx11.com/20260214/XdQa4ivE/index.m3u8
 #EXTINF:-1 tvg-name="傻儿师长-第十二集" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV热播剧场.png" group-title="傻儿师长",傻儿师长-第十二集
 https://play.modujx11.com/20260215/3N7HcKQq/index.m3u8
+#EXTINF:-1 tvg-name="傻儿师长-第十三集" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV热播剧场.png" group-title="傻儿师长",傻儿师长-第十三集
+https://play.modujx11.com/20260216/9EDKapu8/index.m3u8
+
+
 
 
 
@@ -568,6 +571,7 @@ https://play.modujx11.com/20260115/2QuvUDum/index.m3u8
 https://play.modujx11.com/20260115/xQNiclnG/index.m3u8
 #EXTINF:-1 tvg-name="玉茗茶骨-第三十六集" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV热播剧场.png" group-title="玉茗茶骨",玉茗茶骨-第三十六集
 https://play.modujx11.com/20260115/5wdshcjv/index.m3u8
+
 
 
 
