@@ -1,84 +1,85 @@
-#EXTM3U x-tvg-url="https://fy.188766.xyz/e.xml" tvg-shift="0"
-#EXTINF:-1 tvg-id="CCTV1-综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西省吕梁市孝义市酒店 山西联通",CCTV1-综合
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="山西省吕梁市孝义市酒店山西联通",CCTV1-综合
 http://118.77.115.215:9901/tsfile/live/0001_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="CCTV2-财经" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西省吕梁市孝义市酒店 山西联通",CCTV2-财经
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="山西省吕梁市孝义市酒店山西联通",CCTV2-财经
 http://118.77.115.215:9901/tsfile/live/0002_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="CCTV3-综艺" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西省吕梁市孝义市酒店 山西联通",CCTV3-综艺
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="山西省吕梁市孝义市酒店山西联通",CCTV3-综艺
 http://118.77.115.215:9901/tsfile/live/0003_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="CCTV4-国际" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西省吕梁市孝义市酒店 山西联通",CCTV4-国际
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="山西省吕梁市孝义市酒店山西联通",CCTV4-国际
 http://118.77.115.215:9901/tsfile/live/0004_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="CCTV5-体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西省吕梁市孝义市酒店 山西联通",CCTV5-体育
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="山西省吕梁市孝义市酒店山西联通",CCTV5-体育
 http://118.77.115.215:9901/tsfile/live/0005_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="CCTV5+体育赛事" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西省吕梁市孝义市酒店 山西联通",CCTV5+体育赛事
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="山西省吕梁市孝义市酒店山西联通",CCTV5+体育赛事
 http://118.77.115.215:9901/tsfile/live/0016_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="CCTV6-电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西省吕梁市孝义市酒店 山西联通",CCTV6-电影
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="山西省吕梁市孝义市酒店山西联通",CCTV6-电影
 http://118.77.115.215:9901/tsfile/live/0006_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="CCTV7-军农" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西省吕梁市孝义市酒店 山西联通",CCTV7-军农
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="山西省吕梁市孝义市酒店山西联通",CCTV7-军农
 http://118.77.115.215:9901/tsfile/live/0007_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="CCTV8-电视剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西省吕梁市孝义市酒店 山西联通",CCTV8-电视剧
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="山西省吕梁市孝义市酒店山西联通",CCTV8-电视剧
 http://118.77.115.215:9901/tsfile/live/0008_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="CCTV9-纪录" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西省吕梁市孝义市酒店 山西联通",CCTV9-纪录
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="山西省吕梁市孝义市酒店山西联通",CCTV9-纪录
 http://118.77.115.215:9901/tsfile/live/0009_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="CCTV10-科教" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西省吕梁市孝义市酒店 山西联通",CCTV10-科教
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="山西省吕梁市孝义市酒店山西联通",CCTV10-科教
 http://118.77.115.215:9901/tsfile/live/0010_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="CCTV11-戏曲" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西省吕梁市孝义市酒店 山西联通",CCTV11-戏曲
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="山西省吕梁市孝义市酒店山西联通",CCTV11-戏曲
 http://118.77.115.215:9901/tsfile/live/0011_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="CCTV12-社会与法" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西省吕梁市孝义市酒店 山西联通",CCTV12-社会与法
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="山西省吕梁市孝义市酒店山西联通",CCTV12-社会与法
 http://118.77.115.215:9901/tsfile/live/0012_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="CCTV13-新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西省吕梁市孝义市酒店 山西联通",CCTV13-新闻
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="山西省吕梁市孝义市酒店山西联通",CCTV13-新闻
 http://118.77.115.215:9901/tsfile/live/0013_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="CCTV14-少儿" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西省吕梁市孝义市酒店 山西联通",CCTV14-少儿
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="山西省吕梁市孝义市酒店山西联通",CCTV14-少儿
 http://118.77.115.215:9901/tsfile/live/0014_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="CCTV15-音乐" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西省吕梁市孝义市酒店 山西联通",CCTV15-音乐
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="山西省吕梁市孝义市酒店山西联通",CCTV15-音乐
 http://118.77.115.215:9901/tsfile/live/0015_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西省吕梁市孝义市酒店 山西联通",CCTV16
+#EXTINF:-1 tvg-id="1864" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="山西省吕梁市孝义市酒店山西联通",CCTV16
 http://118.77.115.215:9901/tsfile/live/1000_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="CCTV17" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西省吕梁市孝义市酒店 山西联通",CCTV17
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="山西省吕梁市孝义市酒店山西联通",CCTV17
 http://118.77.115.215:9901/tsfile/live/0019_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="山西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西省吕梁市孝义市酒店 山西联通",山西卫视
+#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="山西省吕梁市孝义市酒店山西联通",山西卫视
 http://118.77.115.215:9901/tsfile/live/0118_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="黄河电视台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西省吕梁市孝义市酒店 山西联通",黄河电视台
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="山西省吕梁市孝义市酒店山西联通",黄河电视台
 http://118.77.115.215:9901/tsfile/live/1001_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="山西经济与科技" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西省吕梁市孝义市酒店 山西联通",山西经济与科技
+#EXTINF:-1 tvg-id="2046" tvg-name="山西经济与科技" tvg-logo="" group-title="山西省吕梁市孝义市酒店山西联通",山西经济与科技
 http://118.77.115.215:9901/tsfile/live/1002_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="山西影视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西省吕梁市孝义市酒店 山西联通",山西影视
+#EXTINF:-1 tvg-id="2047" tvg-name="山西影视" tvg-logo="" group-title="山西省吕梁市孝义市酒店山西联通",山西影视
 http://118.77.115.215:9901/tsfile/live/1003_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="山西社会与法制" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西省吕梁市孝义市酒店 山西联通",山西社会与法制
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="山西省吕梁市孝义市酒店山西联通",山西社会与法制
 http://118.77.115.215:9901/tsfile/live/1004_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="孝义电视台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西省吕梁市孝义市酒店 山西联通",孝义电视台
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="山西省吕梁市孝义市酒店山西联通",孝义电视台
 http://118.77.115.215:9901/tsfile/live/1005_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="湖南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西省吕梁市孝义市酒店 山西联通",湖南卫视
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="山西省吕梁市孝义市酒店山西联通",湖南卫视
 http://118.77.115.215:9901/tsfile/live/0128_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西省吕梁市孝义市酒店 山西联通",浙江卫视
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="山西省吕梁市孝义市酒店山西联通",浙江卫视
 http://118.77.115.215:9901/tsfile/live/0124_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="天津卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西省吕梁市孝义市酒店 山西联通",天津卫视
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="山西省吕梁市孝义市酒店山西联通",天津卫视
 http://118.77.115.215:9901/tsfile/live/0135_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="上海卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西省吕梁市孝义市酒店 山西联通",上海卫视
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="山西省吕梁市孝义市酒店山西联通",上海卫视
 http://118.77.115.215:9901/tsfile/live/0107_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="江苏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西省吕梁市孝义市酒店 山西联通",江苏卫视
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="山西省吕梁市孝义市酒店山西联通",江苏卫视
 http://118.77.115.215:9901/tsfile/live/0127_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="深圳卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西省吕梁市孝义市酒店 山西联通",深圳卫视
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="山西省吕梁市孝义市酒店山西联通",深圳卫视
 http://118.77.115.215:9901/tsfile/live/0126_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西省吕梁市孝义市酒店 山西联通",北京卫视
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="山西省吕梁市孝义市酒店山西联通",北京卫视
 http://118.77.115.215:9901/tsfile/live/0122_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="重庆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西省吕梁市孝义市酒店 山西联通",重庆卫视
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="山西省吕梁市孝义市酒店山西联通",重庆卫视
 http://118.77.115.215:9901/tsfile/live/0142_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="湖北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西省吕梁市孝义市酒店 山西联通",湖北卫视
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="山西省吕梁市孝义市酒店山西联通",湖北卫视
 http://118.77.115.215:9901/tsfile/live/0132_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="山东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西省吕梁市孝义市酒店 山西联通",山东卫视
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="山西省吕梁市孝义市酒店山西联通",山东卫视
 http://118.77.115.215:9901/tsfile/live/0131_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="河北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西省吕梁市孝义市酒店 山西联通",河北卫视
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="山西省吕梁市孝义市酒店山西联通",河北卫视
 http://118.77.115.215:9901/tsfile/live/0117_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="黑龙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西省吕梁市孝义市酒店 山西联通",黑龙江卫视
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="山西省吕梁市孝义市酒店山西联通",黑龙江卫视
 http://118.77.115.215:9901/tsfile/live/0143_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="四川卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西省吕梁市孝义市酒店 山西联通",四川卫视
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="山西省吕梁市孝义市酒店山西联通",四川卫视
 http://118.77.115.215:9901/tsfile/live/0123_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="东南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西省吕梁市孝义市酒店 山西联通",东南卫视
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="山西省吕梁市孝义市酒店山西联通",东南卫视
 http://118.77.115.215:9901/tsfile/live/0137_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="河南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西省吕梁市孝义市酒店 山西联通",河南卫视
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="山西省吕梁市孝义市酒店山西联通",河南卫视
 http://118.77.115.215:9901/tsfile/live/0139_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="陕西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西省吕梁市孝义市酒店 山西联通",陕西卫视
+#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="山西省吕梁市孝义市酒店山西联通",陕西卫视
 http://118.77.115.215:9901/tsfile/live/0136_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+
 
 
 
@@ -564,6 +565,7 @@ https://play.modujx11.com/20260115/2QuvUDum/index.m3u8
 https://play.modujx11.com/20260115/xQNiclnG/index.m3u8
 #EXTINF:-1 tvg-name="玉茗茶骨-第三十六集" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV热播剧场.png" group-title="玉茗茶骨",玉茗茶骨-第三十六集
 https://play.modujx11.com/20260115/5wdshcjv/index.m3u8
+
 
 
 
